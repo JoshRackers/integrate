@@ -6,6 +6,10 @@
 Welcome to Integrate's documentation!
 =====================================
 
+This is a small library to do some integral approximations
+
+.. autofunction:: integrate.newton_cotes.simpson.evaluate
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
